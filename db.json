@@ -33,7 +33,54 @@
         "autorizzazione": "OK",
         "dataOra": "2025-01-21T08:05:00",
         "importo": 83.49
+      },
+        {
+      "id": "R20250605_001",
+      "date": "2025-06-05",
+      "total": 119.93,
+      "points": 119,
+      "items": [
+        { "name": "Coca Cola Zero", "price": 1.99, "category": "Bevande" },
+        { "name": "Vino Bianco Chardonnay", "price": 6.99, "category": "Bevande" },
+        { "name": "Latte Fresco", "price": 1.39, "category": "Freschi" },
+        { "name": "Yogurt Greco", "price": 2.99, "category": "Freschi" },
+        { "name": "Burrata", "price": 3.49, "category": "Freschi" },
+        { "name": "Prosciutto di Parma", "price": 7.99, "category": "Freschi" },
+        { "name": "Parmigiano 24 mesi", "price": 8.99, "category": "Freschi" },
+        { "name": "Salmone affumicato", "price": 5.99, "category": "Freschi" },
+        { "name": "Gamberi", "price": 6.49, "category": "Freschi" },
+        { "name": "Filetto di Branzino", "price": 4.99, "category": "Freschi" },
+        { "name": "Pane integrale", "price": 1.99, "category": "Freschi" },
+        { "name": "Insalata mista", "price": 1.49, "category": "Freschi" },
+        { "name": "Pomodori pachino", "price": 2.99, "category": "Freschi" },
+        { "name": "Mozzarella bufala", "price": 4.79, "category": "Freschi" },
+        { "name": "Ricotta di pecora", "price": 3.99, "category": "Freschi" },
+        { "name": "Olive taggiasche", "price": 3.49, "category": "Freschi" },
+        { "name": "Funghi porcini", "price": 5.99, "category": "Freschi" },
+        { "name": "Asparagi", "price": 3.99, "category": "Freschi" },
+        { "name": "Carciofi", "price": 2.99, "category": "Freschi" },
+        { "name": "Pasta Barilla", "price": 1.99, "category": "Dispensa" },
+        { "name": "Riso Arborio", "price": 2.49, "category": "Dispensa" },
+        { "name": "Olio EVO Toscano", "price": 7.99, "category": "Dispensa" },
+        { "name": "Aceto balsamico", "price": 4.99, "category": "Dispensa" },
+        { "name": "Pesto genovese", "price": 3.49, "category": "Dispensa" },
+        { "name": "Pomodori pelati", "price": 1.99, "category": "Dispensa" },
+        { "name": "Tonno Rio Mare", "price": 2.99, "category": "Dispensa" },
+        { "name": "Caffè Lavazza", "price": 4.99, "category": "Dispensa" },
+        { "name": "Biscotti Mulino Bianco", "price": 2.99, "category": "Snack" },
+        { "name": "Cioccolato Lindt", "price": 3.99, "category": "Snack" },
+        { "name": "Gelato Häagen-Dazs", "price": 4.99, "category": "Extra" },
+        { "name": "Detersivo Dash", "price": 3.99, "category": "Casa" }
+      ],
+      "payment": {
+        "metodo": "Carta di credito",
+        "circuito": "Visa",
+        "transazioneId": "N. 2277-0017",
+        "autorizzazione": "OK",
+        "dataOra": "2025-06-05T09:33:00",
+        "importo": 119.93
       }
+    }
     }
   ]
 }
